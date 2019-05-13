@@ -7,6 +7,7 @@ Hardware
 - Pacco batterie 2xAA
 - Modulo programmatore USB ESP-01 per ESP8266 (CH340G)
 ![alt text](https://github.com/LarryN3t/CDS-2019/blob/master/1-ESP01-USB-Serial-Adapter_eBay.jpg)
+(Per utilizzarlo bisogna fare un ponticello tra GND e GPIO0)
 
 Software
 
