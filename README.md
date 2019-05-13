@@ -10,7 +10,11 @@ Hardware
 
 Software
 
-# Progetto ferma fazzoletone
+# Schema circuito
+
+![alt text](https://github.com/LarryN3t/CDS-2019/blob/master/Schema%20circuito.png)
+
+# Progetto 3D ferma fazzoletone
 File di progetto del fermafazzolettone in FreeCad
 
 # tcpserver
