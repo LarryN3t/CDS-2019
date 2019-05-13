@@ -22,3 +22,6 @@ Software in Arduino versione 1.8.7 da caricare sull' ESP-01
 
 Logo generator
 http://javl.github.io/image2cpp/
+
+
+# Mi raccomando tenete sempre in ordine e puliti i vostri strumenti di Lavoro, grazie per essere venuti .0r$0b0t.
